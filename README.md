@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HTTP Snippet [![version][npm-version]][npm-url] [![License][npm-license]][license-url]
 
 > HTTP Request snippet generator for *many* languages & tools including: `cURL`, `HTTPie`, `Javascript`, `Node`, `C`, `Java`, `PHP`, `Objective-C`, `Swift`, `Python`, `Ruby`, `C#`, `Go`, `OCaml` and [more](https://github.com/Mashape/httpsnippet/wiki/Targets)!
@@ -216,3 +217,7 @@ For more information on SemVer, please visit <http://semver.org/>.
 
 [gitter-url]: https://gitter.im/Mashape/httpsnippet
 [gitter-image]: https://img.shields.io/badge/Gitter-Join%20Chat-blue.svg?style=flat-square
+=======
+# httpsnippet
+HTTP Request snippet generator for many languages &amp; libraries
+>>>>>>> 920e0d9dbcc1799f8393217681ecbb5329809675
